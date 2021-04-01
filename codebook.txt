@@ -1,0 +1,23 @@
+Codebook for:
+
+Cruz Aceves and Mallinson: "Standardizing the Measurement of Relative Ideology in Policy Diffusion Research" 		
+
+	Variable				Description
+adopt 					State lottery adoption
+eelct1 					Gubernatorial election
+elect2 					Nonelection year
+fiscal  				Fiscal health
+income  				Personal income
+religion  				Religion fundamentalists
+neighbor 				Neighboring adopters
+year 					Time counter
+yearold					Two-digit year
+stnum					Id. variable
+gov6099					Government ideology
+wideodif				GNCP's ideological distance
+ideology_relative_berry			Ideological distance (same as malideodistgov6099, except recent adopters are not up-weighted. Instead, average distance between current adopter and each past adopter is used)
+malideodistgov6099			Ideological distance (same as ideodistgov6099, except first observed value is distance between state and global average ideology in the first observed year)
+ideodistgov6099				Ideological distance (ties averaged, most-recent adoptions up-weighted & first observed value is zero)
+
+Source & further details:
+Grossback LJ, Nicholson-Crotty S and Peterson DAM. (2004) Ideology and Learning in Policy Diffusion. American Politics Research 32: 521-545.
